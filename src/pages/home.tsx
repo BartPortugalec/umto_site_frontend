@@ -1,11 +1,11 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
 
-function PROJECTS() {
+function HOME() {
     return (
       <div>
-        PROJECTS
+        HOME
       </div>
     );
   }
-export default PROJECTS;
+export default HOME;

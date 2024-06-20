@@ -1,3 +1,9 @@
 import React from "react";
-
-export { }
+function ABOUT() {
+    return (
+        <div>
+          ABOUT
+        </div>
+      );
+}
+export default ABOUT ;
